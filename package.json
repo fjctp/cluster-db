@@ -1,0 +1,23 @@
+{
+  "name": "cluster-health-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gist.github.com/d076e2f3aa1458e5cbd372f3786a55a8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gist.github.com/d076e2f3aa1458e5cbd372f3786a55a8"
+  },
+  "homepage": "https://gist.github.com/d076e2f3aa1458e5cbd372f3786a55a8",
+  "dependencies": {
+    "ping": "^0.2.2",
+    "restify": "^4.3.0"
+  }
+}
