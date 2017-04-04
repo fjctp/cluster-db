@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gist.github.com/d076e2f3aa1458e5cbd372f3786a55a8.git"
+    "url": "git+https://github.com/fjctp/cluster-db.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://gist.github.com/d076e2f3aa1458e5cbd372f3786a55a8"
+    "url": "https://github.com/fjctp/cluster-db.git"
   },
-  "homepage": "https://gist.github.com/d076e2f3aa1458e5cbd372f3786a55a8",
+  "homepage": "https://github.com/fjctp/cluster-db.git",
   "dependencies": {
     "ping": "^0.2.2",
     "restify": "^4.3.0"
